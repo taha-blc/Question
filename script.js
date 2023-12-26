@@ -12,7 +12,7 @@ const noBtnRect = hayirBtn.getBoundingClientRect()
 
 
 evetBtn.addEventListener('click', () => {
-    yazi.innerHTML = '(: Thank youuu :)'
+    yazi.innerHTML = '(: Dudaklarını Yalarım :)'
     // console.log('tiklandi')
     body.style.backgroundColor = '#C499F3'
     icon.style.color = '#C499F3'
